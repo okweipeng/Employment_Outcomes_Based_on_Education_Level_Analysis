@@ -13,7 +13,7 @@ This project analyzes employment and wage data to explore the relationship betwe
 ---
 
 ## Data Sources  
-The analysis uses several datasets from EPI, including:  
+The analysis uses several datasets, including:  
 - `all-ages.csv`  
 - `grad-students.csv`  
 - `majors-list.csv`  
