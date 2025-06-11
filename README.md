@@ -8,7 +8,7 @@ How does college degree attainment influence employment rates and job prospects,
 ---
 
 ## Overview  
-This project analyzes employment and wage data to explore the relationship between education levels—especially college degrees—and employment outcomes in the United States. It uses data from the Economic Policy Institute (EPI) to examine trends over time, differences by gender and education level, employment types among recent graduates, and median wages by college major.
+This project analyzes employment and wage data to explore the relationship between education levels—especially college degrees—and employment outcomes in the United States. 
 
 ---
 
