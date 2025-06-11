@@ -58,6 +58,6 @@ The analysis uses several datasets, including:
 ---
 
 ## Conclusion  
-This project sheds light on how college degree attainment and choice of major influence employment rates, job types, and wages. While higher education generally leads to better employment outcomes, the data also highlights important differences across fields of study and gender. This analysis can inform students, educators, and policymakers on education and workforce trends.
+This project sheds light on how college degree attainment and choice of major influence employment rates, job types, and wages. While higher education generally leads to better employment outcomes, the data also highlights important differences across fields of study and gender. 
 
 ---
