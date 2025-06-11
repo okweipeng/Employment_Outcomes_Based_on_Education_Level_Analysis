@@ -57,13 +57,6 @@ The analysis uses several datasets, including:
 
 ---
 
-## Implications  
-
-- **For Students:** Choosing a major can influence earning potential; however, passion and career satisfaction are also important considerations. Additional education or certifications may improve income prospects in lower-paying fields.  
-- **For Educators & Institutions:** Data can guide curriculum development, emphasizing employable skills in lower-wage fields and strengthening career services to support all students.
-  
----
-
 ## Conclusion  
 This project sheds light on how college degree attainment and choice of major influence employment rates, job types, and wages. While higher education generally leads to better employment outcomes, the data also highlights important differences across fields of study and gender. This analysis can inform students, educators, and policymakers on education and workforce trends.
 
