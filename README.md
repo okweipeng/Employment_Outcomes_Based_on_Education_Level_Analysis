@@ -54,8 +54,8 @@ The analysis uses several datasets from EPI, including:
   - Top part-time employment majors: Arts (35.6%), Humanities & Liberal Arts (33.9%), Biology & Life Science (32.7%).  
 - **Median Wages by Major:**  
   - Highest earners: Engineering ($57,000 median), Computer Science & Math ($45,000), Business ($40,000).  
-  - Lowest earners: Social Work and Psychology (~$30,000), Arts (~$30,750).  
-  - Moderate earners: Physical Sciences, Social Sciences, Biology & Life Sciences ($36,000 - $39,500).  
+  - Lowest earners: Social Work and Psychology ($30,000), Arts ($30,750).  
+  - Moderate earners: Physical Sciences, Social Sciences, Biology & Life Sciences ($36,000 to $39,500).  
 
 ---
 
