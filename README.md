@@ -37,7 +37,7 @@ The analysis uses several datasets, including:
 - Calculates part-time and full-time employment percentages by major category.  
 - Visualized with a heatmap to highlight employment type distribution.
 
-### 3. Median Wages by Major Category  
+### 3. Wages by Major Category  
 - Merges recent graduates data with major category list.  
 - Calculates median wages for each major category.  
 - Bar plot visualizes median wage differences across majors using a ‘viridis’ color palette.
@@ -50,8 +50,8 @@ The analysis uses several datasets, including:
 - **Employment Type:**  
   - Top full-time employment majors: Business (83.4%), Engineering (81.8%), Computer & Mathematics (79.6%).  
   - Top part-time employment majors: Arts (35.6%), Humanities & Liberal Arts (33.9%), Biology & Life Science (32.7%).  
-- **Median Wages by Major:**  
-  - Highest earners: Engineering ($57,000 median), Computer Science & Math ($45,000), Business ($40,000).  
+- **Wages by Major:**  
+  - Highest earners: Engineering ($57,000), Computer Science & Math ($45,000), Business ($40,000).  
   - Lowest earners: Social Work and Psychology ($30,000), Arts ($30,750).  
   - Moderate earners: Physical Sciences, Social Sciences, Biology & Life Sciences ($36,000 to $39,500).  
 
