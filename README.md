@@ -23,7 +23,7 @@ The analysis uses several datasets from EPI, including:
 - `women-stem.csv`  
 - `wages_by_edu.csv`  
 
-*Note: Some datasets originally considered were discarded due to unavailability.*
+*Note: Certain datasets originally considered were discarded due to unavailability as of current.*
 
 ---
 
@@ -63,26 +63,7 @@ The analysis uses several datasets from EPI, including:
 
 - **For Students:** Choosing a major can influence earning potential; however, passion and career satisfaction are also important considerations. Additional education or certifications may improve income prospects in lower-paying fields.  
 - **For Educators & Institutions:** Data can guide curriculum development, emphasizing employable skills in lower-wage fields and strengthening career services to support all students.
-
----
-
-## How to Run the Code  
-
-1. Ensure you have the required Python libraries installed:  
-   - pandas  
-   - numpy  
-   - matplotlib  
-   - seaborn  
-2. Load the CSV files into your working directory or update paths accordingly.  
-3. Run the analysis scripts to generate the line plots, heatmaps, and bar charts.
-
----
-
-## Visualization Best Practices Used  
-- Different line styles (solid for men, dashed for women) to distinguish gender.  
-- Color-blind-friendly palettes to ensure accessibility.  
-- Clear legends and axis labels to improve readability and interpretation.  
-
+  
 ---
 
 ## Conclusion  
