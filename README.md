@@ -1,5 +1,3 @@
-# Data_Exploration_on_Educational_Outcomes
-
 # Employment Outcomes and College Degree Attainment Analysis
 
 ---
