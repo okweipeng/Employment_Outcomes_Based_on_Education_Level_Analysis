@@ -20,6 +20,16 @@ The analysis uses several datasets, including:
 - `recent-grads.csv`  
 - `women-stem.csv`  
 - `wages_by_edu.csv`
+
+**Files used via Github:** (Section ~ college-majors) 
+
+Source: https://github.com/fivethirtyeight/data/tree/master/college-majors 
+
+*Credit: Bencasselman*
+
+**Files used via Kaggle:**
+
+Source: https://www.kaggle.com/datasets/asaniczka/wages-by-education-in-the-usa-1973-2022
   
 ---
 
