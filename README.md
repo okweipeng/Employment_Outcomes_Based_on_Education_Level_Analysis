@@ -19,10 +19,8 @@ The analysis uses several datasets, including:
 - `majors-list.csv`  
 - `recent-grads.csv`  
 - `women-stem.csv`  
-- `wages_by_edu.csv`  
-
-*Note: Certain datasets originally considered were discarded due to unavailability as of current.*
-
+- `wages_by_edu.csv`
+  
 ---
 
 ## Key Analyses & Visualizations  
